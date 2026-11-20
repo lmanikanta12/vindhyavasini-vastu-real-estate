@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Floor Plan Review",
+  "description": "A quick remote review of your floor plan with the main directional observations and simple corrections.",
+  "fee": 1500,
+  "duration": 30,
+  "mode": "Online",
+  "icon": "FileSearch",
+  "active": true
+ },
+ {
+  "name": "Home Vastu Consultation",
+  "description": "A detailed consultation for your home or apartment covering entrance, kitchen, bedrooms, pooja room and practical corrections.",
+  "fee": 3500,
+  "duration": 60,
+  "mode": "On-site or online",
+  "icon": "Home",
+  "active": true
+ },
+ {
+  "name": "Plot Vastu Assessment",
+  "description": "Evaluate plot shape, slope, road position and the best zones for building before you buy or construct.",
+  "fee": 4000,
+  "duration": 60,
+  "mode": "On-site",
+  "icon": "Map",
+  "active": true
+ },
+ {
+  "name": "Office and Commercial Vastu",
+  "description": "Layout guidance for offices, shops and showrooms including seating, cash counter, reception and storage.",
+  "fee": 6500,
+  "duration": 90,
+  "mode": "On-site",
+  "icon": "Building2",
+  "active": true
+ },
+ {
+  "name": "Pre-Purchase Vastu Check",
+  "description": "Compare shortlisted properties against Vastu guidance before you commit, with a short written summary.",
+  "fee": 2500,
+  "duration": 45,
+  "mode": "Online",
+  "icon": "ClipboardCheck",
+  "active": true
+ }
+]
